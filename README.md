@@ -7,7 +7,7 @@ You need to pick a trusted and safe VPN that gives free service
 
 **Step 2: Download & Install the VPN App**
 Open your browser
-→ Go to this link: https://protonvpn.com
+→ Go to this link: *https://protonvpn.com*
 → Click Get Proton Free → Create a free account with your emai
 → Download the VPN app and sign in → Now you're ready to use the VPN!
 
