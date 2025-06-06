@@ -34,5 +34,5 @@ Your data is encrypted (safe from hackers), You are browsing securely through th
 → Check your IP address, it should now show your original IP
 → Open any website, Notice if the speed is faster or slower compared to when VPN was on.
 
-**Conclusion**
+**Conclusion:**
 Using a VPN adds an important layer of privacy and security to internet usage. Through this task, I learned how a VPN works by changing my IP address, encrypting my internet traffic, and protecting my identity online. It is a useful tool for maintaining anonymity, especially on public networks, and for accessing region-restricted content. However, it also comes with limitations like reduced speed and restrictions in free plans. Overall, VPNs are effective for basic online privacy, but choosing a reputable provider with strong encryption and privacy policies is crucial.
